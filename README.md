@@ -2,7 +2,6 @@
 
 
 
-=======================
 Running the application
 =======================
  - Nothing out of the ordinary, I used tomcat to run it on my local. I used maven project management.
@@ -13,7 +12,6 @@ Running the application
 	I have used the full data, therefore, no parameters needed.
 	
 	
-=======================
 About the application
 =======================
  - It is Jersey REST api application.
